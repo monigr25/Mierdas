@@ -20,7 +20,7 @@ public class Pruebas {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Esto es una prueba de ver si se sube lo nuevo");
     }
     private static TipoMod llegirAct(String msg) {
         TipoMod act = null;
